@@ -15,7 +15,7 @@ The project focuses on practicing fundamental C++ and embedded programming conce
 ---
 ## Demo
 
-![LED Chasing Demo](assets/led chasing demo.gif)
+![LED Chasing Demo](assets/led-chasing-demo.gif)
 
 ---
 
